@@ -8,7 +8,8 @@ The robot is engineered to detect opponent robots using an infrared distance sen
 > **Project Notice:** This repository serves as an archive for documentation purposes. This was a collaborative team effort by the project members from Rizal National Science High School.
 
 <p align="center">
-  <img src="robot.jpeg" alt="Autonomous Sumo Robot in Arena" width="600">
+  <img src="sumobot.jpeg" alt="Autonomous Sumo Robot in Arena" width="600"><br>
+  <em>Our autonomous sumo robot (left) facing its opponent (right) in the dohyo.</em>
 </p>
 
 ---

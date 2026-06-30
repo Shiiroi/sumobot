@@ -1,11 +1,15 @@
 # 🏆 2023 1st Place Division Champion: 500g Autonomous Sumo Robot (RIZAL)
 
-This repository archives the official Arduino firmware (`compe.ino`) for our **500-gram Autonomous Sumo Robot**, representing **Rizal National Science High School (RNSHS)**. Developed as a collaborative team effort, this robot won **1st Place** in its division at the **2023 Division School Science and Technology Fair**.
+This repository archives the official Arduino firmware (`compe.ino`) for our **500-gram Autonomous Sumo Robot**, representing **Rizal National Science High School (RNSHS)**. Developed as a collaborative team effort, this robot won **1st Place** in its division at the **2023 Division Science and Technology Fair**.
 
 The robot is engineered to detect opponent robots using an infrared distance sensor, aggressively charge them using a progressive speed algorithm, and stay within the playing ring (*dohyo*) by detecting the white border line using a reflectance sensor.
 
 > [!NOTE]
-> **Project Notice:** This repository serves as an archive for historical and documentation purposes. This was a collaborative team effort by the project members from Rizal National Science High School.
+> **Project Notice:** This repository serves as an archive for documentation purposes. This was a collaborative team effort by the project members from Rizal National Science High School.
+
+<p align="center">
+  <img src="robot.jpeg" alt="Autonomous Sumo Robot" width="500">
+</p>
 
 ---
 
